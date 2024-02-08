@@ -6,4 +6,3 @@ for item in my_list:
 
 for _, value in my_dict.items():
     print(f"My fave thing to drink is: {value}")
-
