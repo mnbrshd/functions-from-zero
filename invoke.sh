@@ -1,1 +1,1 @@
-curl -X 'POST' 'https://reimagined-carnival-jq59gw6v4pg2qr69-8000.app.github.dev/wiki' -H 'accept: application/json' -H 'Content-Type: application/json' -d '{"name": "Microsoft"}'
+curl -X 'POST' 'https://curly-fishstick-4w76r94567pfqjpw-8080.app.github.dev/wiki' -H 'accept: application/json' -H 'Content-Type: application/json' -d '{"name": "Microsoft"}'
